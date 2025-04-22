@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 46146cd08ddf79a4d9738fe8a7345d79
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameTypeDropdown: {instanceID: 0}
+  - firstPlayerAlgorithmDropdown: {instanceID: 0}
+  - firstPlayerHeuristicDropdown: {instanceID: 0}
+  - secondPlayerAlgorithmDropdown: {instanceID: 0}
+  - secondPlayerHeuristicDropdown: {instanceID: 0}
+  - numberOfMovesText: {instanceID: 0}
+  - timerText: {instanceID: 0}
+  - playButton: {instanceID: 0}
+  - logToFileToggle: {instanceID: 0}
+  - firstPlayerPawnImage: {fileID: 21300000, guid: b18e5b60556d5304d9367ba360421083,
+      type: 3}
+  - secondPlayerPawnImage: {fileID: 21300000, guid: 978057dc388fa1a409abfaf05891fcbe,
+      type: 3}
+  - emptyField: {fileID: 21300000, guid: 53c19c07624e67b638f8722febb92e1c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/um9 menu page.unity
+    guid: 41da900d9d1031f4f93e9bebd0ddc0bc
+  - enabled: 1
+    path: Assets/Scenes/hwm.unity
+    guid: 17c6dc8ca51ec244baf7858e8d584aa3
+  - enabled: 1
+    path: Assets/Scenes/Games page.unity
+    guid: 3c7dc21e2de663547a9439bbd64ca96a
+  - enabled: 0
+    path: Assets/Scenes/frist.unity
+    guid: 21d3eaa568e217545ba57feff049414f
+  - enabled: 1
+    path: Assets/Scenes/zd henkatek/Fourth girl.unity
+    guid: 5084de8ff1c1d4b419f99de493b6b3d4
+  - enabled: 1
+    path: Assets/Scenes/zd henkatek/frist girl.unity
+    guid: 4482a4c3865690c4abd143ea5d4d9b16
+  - enabled: 1
+    path: Assets/Scenes/zd henkatek/Fourth.unity
+    guid: aac30687d30c39345a5fe444de4c0b58
+  - enabled: 0
+    path: Assets/Scenes/last.unity
+    guid: 1fcf068001cf64647b05a53fcb0ecf2e
+  - enabled: 0
+    path: Assets/Scenes/Levels.unity
+    guid: b580a31765a684f4d98109dced20676a
+  - enabled: 1
+    path: Assets/Scenes/win.lose/Mabrook.unity
+    guid: 25a1dcbd0e6cbc14a8a0f82531df1db2
+  - enabled: 1
+    path: Assets/Scenes/win.lose/Loser.unity
+    guid: dcbcc7cca0e2323408dda41ba6c9785c
+  - enabled: 1
+    path: Assets/Scenes/Main page.unity
+    guid: cade5f10414541f45b5a8eefadc98b11
+  - enabled: 1
+    path: Assets/Scenes/zd henkatek/second.unity
+    guid: 182b1c3e2ee225e458136e77f99f0cb1
+  - enabled: 1
+    path: Assets/Scenes/zd henkatek/second girl.unity
+    guid: 19bbaff1bfc633245abf557dddb22610
+  - enabled: 1
+    path: Assets/Scenes/zd henkatek/Third.unity
+    guid: 7062546a27f01ac45ba7aa3dd00c07cf
+  - enabled: 1
+    path: Assets/Scenes/zd henkatek/Third girl.unity
+    guid: 4273ef384c768f149aa0531349099079
+  - enabled: 1
+    path: Assets/Scenes/zd henkatek/Fifth.unity
+    guid: 5d3150288eeeacd4fb2b4f18a7c97992
+  - enabled: 1
+    path: Assets/Scenes/zd henkatek/Fifth Girl.unity
+    guid: 2704d670130389247804bdbf036325f1
+  - enabled: 1
+    path: Assets/Scenes/zd henkatek/Choose.unity
+    guid: e45f078ff2948c749a4586b31f341910
+  - enabled: 1
+    path: Assets/Scenes/zd henkatek/Sixth Girl.unity
+    guid: 7795cfd0e1dd63a4da6af94f5f315030
+  - enabled: 1
+    path: Assets/Scenes/zd henkatek/Sixth.unity
+    guid: b4ea76c9b21585548a87e388944e2655
+  - enabled: 1
+    path: Assets/Scenes/zd henkatek/Seventh.unity
+    guid: c3bd1cc48ac609842ac103af08af5f28
+  - enabled: 1
+    path: Assets/Scenes/zd henkatek/Seventh Girl.unity
+    guid: 3d113d78b36e4504b81635e5532e8685
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: 7474e656b152a964d9a8ddda45fec438
+  - enabled: 1
+    path: Assets/Scenes/ProfileScene.unity
+    guid: cb655dafd15a12d448562e9f4d4274f0
+  - enabled: 1
+    path: Assets/Scenes/LeaderBoard.unity
+    guid: 6c34e8c6e2a252844a0bdfd3b6219001
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

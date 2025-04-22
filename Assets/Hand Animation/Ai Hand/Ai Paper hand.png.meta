@@ -1,0 +1,422 @@
+fileFormatVersion: 2
+guid: 71aae05f76a3cb146aec9725a017284b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8489882201551039965
+    second: Ai Paper hand_0
+  - first:
+      213: 6069217695153606237
+    second: Ai Paper hand_1
+  - first:
+      213: -8783996120071875738
+    second: Ai Paper hand_2
+  - first:
+      213: -3411616674065587198
+    second: Ai Paper hand_3
+  - first:
+      213: 4168978932530072307
+    second: Ai Paper hand_4
+  - first:
+      213: 6702022731829195279
+    second: Ai Paper hand_5
+  - first:
+      213: -8861917671785391197
+    second: Ai Paper hand_6
+  - first:
+      213: -6626323007619418316
+    second: Ai Paper hand_7
+  - first:
+      213: -6886770506293561557
+    second: Ai Paper hand_8
+  - first:
+      213: -6047558096705243929
+    second: Ai Paper hand_9
+  - first:
+      213: -8386388805190899091
+    second: Ai Paper hand_10
+  - first:
+      213: -1685792557360760182
+    second: Ai Paper hand_11
+  - first:
+      213: -6645250003769961563
+    second: Ai Paper hand_12
+  - first:
+      213: -1500879855497262250
+    second: Ai Paper hand_13
+  - first:
+      213: -2857468081793056056
+    second: Ai Paper hand_14
+  - first:
+      213: 6907889029234565822
+    second: Ai Paper hand_15
+  - first:
+      213: -46969378986431378
+    second: Ai Paper hand_16
+  - first:
+      213: 837029133772073518
+    second: Ai Paper hand_17
+  - first:
+      213: 4035218956268059841
+    second: Ai Paper hand_18
+  - first:
+      213: -207335626157866892
+    second: Ai Paper hand_19
+  - first:
+      213: 2658795834713798929
+    second: Ai Paper hand_20
+  - first:
+      213: -1647998593014738865
+    second: Ai Paper hand_21
+  - first:
+      213: 8650549045373387589
+    second: Ai Paper hand_22
+  - first:
+      213: 8380856645531911113
+    second: Ai Paper hand_23
+  - first:
+      213: 4796178453070934203
+    second: Ai Paper hand_24
+  - first:
+      213: -3435782176580211094
+    second: Ai Paper hand_25
+  - first:
+      213: 1967362384404904874
+    second: Ai Paper hand_26
+  - first:
+      213: 5582842557011452174
+    second: Ai Paper hand_27
+  - first:
+      213: 3217688728195731073
+    second: Ai Paper hand_28
+  - first:
+      213: -266001485433523676
+    second: Ai Paper hand_29
+  - first:
+      213: 5288104876810752369
+    second: Ai Paper hand_30
+  - first:
+      213: -3196556242354270536
+    second: Ai Paper hand_31
+  - first:
+      213: -4151171879956428110
+    second: Ai Paper hand_32
+  - first:
+      213: 6291538988540590840
+    second: Ai Paper hand_33
+  - first:
+      213: 8602428055008704467
+    second: Ai Paper hand_34
+  - first:
+      213: 118658159630934609
+    second: Ai Paper hand_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ai Paper hand_0
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 941
+        width: 1659
+        height: 4925
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecab6d2ba4158746bd3f12a17a71b72
+      internalID: -1383555628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ai Paper hand_1
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 941
+        width: 1659
+        height: 4809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22799d351a7cf91448d255ab182ddea7
+      internalID: 819936158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ai Paper hand_2
+      rect:
+        serializedVersion: 2
+        x: 5733
+        y: 851
+        width: 2255
+        height: 4665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad99124010dfc194186991bfff3a5105
+      internalID: 1452110209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ai Paper hand_3
+      rect:
+        serializedVersion: 2
+        x: 9686
+        y: 915
+        width: 1503
+        height: 4822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d895d74a2dc9bf045987d71cbd141025
+      internalID: 1921956857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ai Paper hand_4
+      rect:
+        serializedVersion: 2
+        x: 11733
+        y: 967
+        width: 2268
+        height: 4588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d191a2d9d17a4df49bf8f0588d56277e
+      internalID: 391237649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ai Paper hand_5
+      rect:
+        serializedVersion: 2
+        x: 15492
+        y: 993
+        width: 1788
+        height: 4809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ccbfe495aeb1b4e9fd2561f140e267
+      internalID: -1539127428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ai Paper hand_6
+      rect:
+        serializedVersion: 2
+        x: 17630
+        y: 889
+        width: 2450
+        height: 4653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6431e15c3944149ace09439395fa18
+      internalID: 984533624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ai Paper hand_7
+      rect:
+        serializedVersion: 2
+        x: 21998
+        y: 1356
+        width: 2048
+        height: 5547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98be3afc1beaad24e8c82f87b12d0ae1
+      internalID: -6966487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e932e5262f78a4646a4ee5c0325e0874
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ai Paper hand_0: -1383555628
+      Ai Paper hand_1: 819936158
+      Ai Paper hand_2: 1452110209
+      Ai Paper hand_3: 1921956857
+      Ai Paper hand_4: 391237649
+      Ai Paper hand_5: -1539127428
+      Ai Paper hand_6: 984533624
+      Ai Paper hand_7: -6966487
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

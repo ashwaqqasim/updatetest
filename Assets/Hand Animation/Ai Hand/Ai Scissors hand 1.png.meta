@@ -1,0 +1,422 @@
+fileFormatVersion: 2
+guid: a955504336eb3bf4f884b0584056d37d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8398838849577770341
+    second: Ai Scissors hand 1_0
+  - first:
+      213: -8354487783625334964
+    second: Ai Scissors hand 1_1
+  - first:
+      213: -8519007239974320342
+    second: Ai Scissors hand 1_2
+  - first:
+      213: -3007611126904397911
+    second: Ai Scissors hand 1_3
+  - first:
+      213: -2674843695756016539
+    second: Ai Scissors hand 1_4
+  - first:
+      213: 411511686906902673
+    second: Ai Scissors hand 1_5
+  - first:
+      213: -589174807231108038
+    second: Ai Scissors hand 1_6
+  - first:
+      213: -7503648152329582683
+    second: Ai Scissors hand 1_7
+  - first:
+      213: 5044117734883873448
+    second: Ai Scissors hand 1_8
+  - first:
+      213: -898822075804070611
+    second: Ai Scissors hand 1_9
+  - first:
+      213: 3928302583160266468
+    second: Ai Scissors hand 1_10
+  - first:
+      213: -5451862776125731427
+    second: Ai Scissors hand 1_11
+  - first:
+      213: -7554845305798128922
+    second: Ai Scissors hand 1_12
+  - first:
+      213: -7377010131036770454
+    second: Ai Scissors hand 1_13
+  - first:
+      213: -8863476530252728116
+    second: Ai Scissors hand 1_14
+  - first:
+      213: 7298450494882446198
+    second: Ai Scissors hand 1_15
+  - first:
+      213: -8603933184155341711
+    second: Ai Scissors hand 1_16
+  - first:
+      213: 2192838872176186077
+    second: Ai Scissors hand 1_17
+  - first:
+      213: -1087841024578488420
+    second: Ai Scissors hand 1_18
+  - first:
+      213: -2136609143186665289
+    second: Ai Scissors hand 1_19
+  - first:
+      213: 3333820853341771575
+    second: Ai Scissors hand 1_20
+  - first:
+      213: 8831768260617822081
+    second: Ai Scissors hand 1_21
+  - first:
+      213: -569497415852375413
+    second: Ai Scissors hand 1_22
+  - first:
+      213: -2812601663912582481
+    second: Ai Scissors hand 1_23
+  - first:
+      213: -2526817733541162456
+    second: Ai Scissors hand 1_24
+  - first:
+      213: 1019331542671816341
+    second: Ai Scissors hand 1_25
+  - first:
+      213: 5924764372439708323
+    second: Ai Scissors hand 1_26
+  - first:
+      213: 2413338528654609635
+    second: Ai Scissors hand 1_27
+  - first:
+      213: -7554925193250934056
+    second: Ai Scissors hand 1_28
+  - first:
+      213: 3160525871536050738
+    second: Ai Scissors hand 1_29
+  - first:
+      213: -8202632648914318656
+    second: Ai Scissors hand 1_30
+  - first:
+      213: -3912698972448920128
+    second: Ai Scissors hand 1_31
+  - first:
+      213: -6799774645808644371
+    second: Ai Scissors hand 1_32
+  - first:
+      213: 9205402907763796531
+    second: Ai Scissors hand 1_33
+  - first:
+      213: -4160840672725258661
+    second: Ai Scissors hand 1_34
+  - first:
+      213: -8381712171597539668
+    second: Ai Scissors hand 1_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ai Scissors hand 1_0
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 773
+        width: 1633
+        height: 5016
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf157685c9a7ff8488e765bcef2c7945
+      internalID: 1381145670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ai Scissors hand 1_1
+      rect:
+        serializedVersion: 2
+        x: 3646
+        y: 864
+        width: 1503
+        height: 5080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283c8fe41bc25bb4cb316efa9f1fe2ef
+      internalID: 1806878606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ai Scissors hand 1_2
+      rect:
+        serializedVersion: 2
+        x: 5538
+        y: 889
+        width: 2437
+        height: 4640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab9fd70084fac04a81cd13780c8108a
+      internalID: 484067216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ai Scissors hand 1_3
+      rect:
+        serializedVersion: 2
+        x: 9634
+        y: 902
+        width: 1646
+        height: 5016
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf51ba5603d94c449f535428123e332
+      internalID: 576377385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ai Scissors hand 1_4
+      rect:
+        serializedVersion: 2
+        x: 11643
+        y: 954
+        width: 2397
+        height: 4848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7140c8e96c842945806a23b4f747088
+      internalID: 829763717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ai Scissors hand 1_5
+      rect:
+        serializedVersion: 2
+        x: 15336
+        y: 851
+        width: 1867
+        height: 5158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be197a74188d2de47b82ac18b7b8a941
+      internalID: -1663521578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ai Scissors hand 1_6
+      rect:
+        serializedVersion: 2
+        x: 17721
+        y: 864
+        width: 2320
+        height: 4821
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62a6f2f1d6edec45a326b26386f4431
+      internalID: -99863287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ai Scissors hand 1_7
+      rect:
+        serializedVersion: 2
+        x: 21830
+        y: 1317
+        width: 2112
+        height: 5457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2e4106618a355468dbb7db1a1922ea
+      internalID: -247256178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 76eaef49957e4364f8c414b7bf0c639b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ai Scissors hand 1_0: 1381145670
+      Ai Scissors hand 1_1: 1806878606
+      Ai Scissors hand 1_2: 484067216
+      Ai Scissors hand 1_3: 576377385
+      Ai Scissors hand 1_4: 829763717
+      Ai Scissors hand 1_5: -1663521578
+      Ai Scissors hand 1_6: -99863287
+      Ai Scissors hand 1_7: -247256178
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

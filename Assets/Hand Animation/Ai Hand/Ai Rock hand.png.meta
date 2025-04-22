@@ -1,0 +1,428 @@
+fileFormatVersion: 2
+guid: 329928d6237ee554eb3afd8df4f0efa0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6818649076431741505
+    second: Ai Rock hand_0
+  - first:
+      213: -7057552986484576892
+    second: Ai Rock hand_1
+  - first:
+      213: 4410769323626154078
+    second: Ai Rock hand_2
+  - first:
+      213: 2096633314336865234
+    second: Ai Rock hand_3
+  - first:
+      213: 2981564824605708257
+    second: Ai Rock hand_4
+  - first:
+      213: -1163359387921032899
+    second: Ai Rock hand_5
+  - first:
+      213: 7384307088500697946
+    second: Ai Rock hand_6
+  - first:
+      213: 4498705135614541446
+    second: Ai Rock hand_7
+  - first:
+      213: 4976619013751214626
+    second: Ai Rock hand_8
+  - first:
+      213: 7851408756438216841
+    second: Ai Rock hand_9
+  - first:
+      213: -741325485207081803
+    second: Ai Rock hand_10
+  - first:
+      213: -4815745159005428342
+    second: Ai Rock hand_11
+  - first:
+      213: -600537854240929379
+    second: Ai Rock hand_12
+  - first:
+      213: -1331588312642290600
+    second: Ai Rock hand_13
+  - first:
+      213: -5191990941078589965
+    second: Ai Rock hand_14
+  - first:
+      213: -2035118943307745877
+    second: Ai Rock hand_15
+  - first:
+      213: 3771871363206415068
+    second: Ai Rock hand_16
+  - first:
+      213: -1633656337264929022
+    second: Ai Rock hand_17
+  - first:
+      213: 3124130455277635170
+    second: Ai Rock hand_18
+  - first:
+      213: -3798791817409958758
+    second: Ai Rock hand_19
+  - first:
+      213: -8397429184876473895
+    second: Ai Rock hand_20
+  - first:
+      213: -1739357889484739974
+    second: Ai Rock hand_21
+  - first:
+      213: -5219067800720988870
+    second: Ai Rock hand_22
+  - first:
+      213: -8739370127858443837
+    second: Ai Rock hand_23
+  - first:
+      213: 5097465878361140632
+    second: Ai Rock hand_24
+  - first:
+      213: 4474332544507506356
+    second: Ai Rock hand_25
+  - first:
+      213: 8564427595169703164
+    second: Ai Rock hand_26
+  - first:
+      213: 7810155420600082477
+    second: Ai Rock hand_27
+  - first:
+      213: -4002566086533887218
+    second: Ai Rock hand_28
+  - first:
+      213: 496514496509495461
+    second: Ai Rock hand_29
+  - first:
+      213: -6800444014228640153
+    second: Ai Rock hand_30
+  - first:
+      213: -4990614006984934633
+    second: Ai Rock hand_31
+  - first:
+      213: -8734528814797970856
+    second: Ai Rock hand_32
+  - first:
+      213: -5118163134809660620
+    second: Ai Rock hand_33
+  - first:
+      213: 993661036206742113
+    second: Ai Rock hand_34
+  - first:
+      213: -5898542695264025443
+    second: Ai Rock hand_35
+  - first:
+      213: 3381772901610803561
+    second: Ai Rock hand_36
+  - first:
+      213: 1106298373438870896
+    second: Ai Rock hand_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ai Rock hand_0
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 902
+        width: 1550
+        height: 4865
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804f5f15b5de6b843b0bcb1cd444ea04
+      internalID: 421876249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ai Rock hand_1
+      rect:
+        serializedVersion: 2
+        x: 3569
+        y: 923
+        width: 1582
+        height: 4811
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956c2a1acc77aef43913f9e064b45eeb
+      internalID: 200073896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ai Rock hand_2
+      rect:
+        serializedVersion: 2
+        x: 5642
+        y: 901
+        width: 2302
+        height: 4669
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1187fe83cc8bf14449f3e1ade60e8e98
+      internalID: 1900399195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ai Rock hand_3
+      rect:
+        serializedVersion: 2
+        x: 9733
+        y: 923
+        width: 1462
+        height: 4822
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0821f4522ae4c40914e21fa49eeac4
+      internalID: 787210355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ai Rock hand_4
+      rect:
+        serializedVersion: 2
+        x: 11685
+        y: 869
+        width: 2280
+        height: 4680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbb6aa86369eda4d9722149f0fb8ef5
+      internalID: -420897053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ai Rock hand_5
+      rect:
+        serializedVersion: 2
+        x: 15820
+        y: 1011
+        width: 1418
+        height: 4690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13500c75e5904ec4384b283712ded28d
+      internalID: -298732715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ai Rock hand_6
+      rect:
+        serializedVersion: 2
+        x: 17685
+        y: 901
+        width: 2302
+        height: 4593
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74212393c17b947458d77b25fe716320
+      internalID: 1162556969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ai Rock hand_7
+      rect:
+        serializedVersion: 2
+        x: 21959
+        y: 1343
+        width: 1867
+        height: 4847
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8ed228b2ca28243bb943398d8598a4
+      internalID: 580899115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e0879c99e2bcbb4387c634f41ddc29b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ai Rock hand_0: 421876249
+      Ai Rock hand_1: 200073896
+      Ai Rock hand_2: 1900399195
+      Ai Rock hand_3: 787210355
+      Ai Rock hand_4: -420897053
+      Ai Rock hand_5: -298732715
+      Ai Rock hand_6: 1162556969
+      Ai Rock hand_7: 580899115
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
