@@ -479,6 +479,9 @@ static GameUIController()
         currentMovingPlayerText.faceColor = playerNumber == 1 ? firstPlayerColor : secondPlayerColor;
     }
 
+    public AudioSource winAudioSource;
+
+
     private void OnGameFinished(PlayerNumber winningPlayer)
     {
         UpdateWinningPlayerText(winningPlayer);
@@ -498,20 +501,33 @@ static GameUIController()
         if (winningPlayer == PlayerNumber.FirstPlayer && isAI)
         {
             Debug.Log("🎉 اللاعب فاز - الانتقال إلى مشهد Mabrook");
-            // ✳️ أضف هذا السطر قبل الانتقال للمشهد:
+
             if (ScoreManager.Instance != null)
             {
                 ScoreManager.Instance.ResetWinFlag();
             }
 
-            SceneManager.LoadScene("Mabrook");
+            if (winAudioSource != null)
+            {
+                winAudioSource.Play();
+                StartCoroutine(LoadSceneAfterSound("Mabrook", winAudioSource.clip.length));
+            }
+            else
+            {
+                SceneManager.LoadScene("Mabrook");
+            }
         }
-
         else if (winningPlayer == PlayerNumber.SecondPlayer && isAI)
         {
             Debug.Log("😢 اللاعب خسر - الانتقال إلى مشهد Loser");
             SceneManager.LoadScene("Loser");
         }
+    }
+
+    private IEnumerator LoadSceneAfterSound(string sceneName, float delay)
+    {
+        yield return new WaitForSeconds(delay);
+        SceneManager.LoadScene(sceneName);
     }
 
 

@@ -8,13 +8,20 @@ public class Link : MonoBehaviour
     public AudioClip clickSound; // مرجع للصوت (AudioClip)
     private Button button; // مرجع للزر
 
-    void Start()
+       void Start()
     {
-        // الحصول على مكون الزر وإضافة مستمع للنقر
+        // 👇 تحميل مستوى الصوت المحفوظ وتطبيقه على AudioSource
+        float savedVolume = PlayerPrefs.GetFloat("BoardVolume", 1f);
+        if (audioSource != null)
+        {
+            audioSource.volume = savedVolume;
+        }
+
+        // ربط الزر بالصوت
         button = GetComponent<Button>();
         if (button != null)
         {
-            button.onClick.AddListener(() => PlaySound()); 
+            button.onClick.AddListener(() => PlaySound());
         }
     }
 
@@ -31,15 +38,15 @@ public class Link : MonoBehaviour
         }
     }
 
-    private void PlaySoundAndLoadScene(string sceneName)
+    public void PlaySoundAndLoadScene(string sceneName)
     {
         PlaySound();
-        SceneManager.LoadScene(sceneName); 
+        SceneManager.LoadScene(sceneName);
     }
 
     public void GoToGamesPage() => PlaySoundAndLoadScene("Games page");
-    public void GoToFristPage() => PlaySoundAndLoadScene("Frist");
-    public void GoToSecondPage() => PlaySoundAndLoadScene("Second");
+    public void GoToFristPage() => PlaySoundAndLoadScene("frist");
+    public void GoToSecondPage() => PlaySoundAndLoadScene("second");
     public void GoToThirdPage() => PlaySoundAndLoadScene("Third");
     public void GoToFourthPage() => PlaySoundAndLoadScene("Fourth");
     public void GoToFifthPage() => PlaySoundAndLoadScene("Fifth");
@@ -47,6 +54,9 @@ public class Link : MonoBehaviour
     public void GoToSeventhPage() => PlaySoundAndLoadScene("Seventh");
     
     public void GoToChooseTheCharacterPage() => PlaySoundAndLoadScene("Choose");
+
+    public void GoToChooseTheCharacterPageback() => PlaySoundAndLoadScene("um9 menu page");
+    
 }
 
 

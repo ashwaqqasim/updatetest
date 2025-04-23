@@ -38,12 +38,14 @@ public class LinkGirl : MonoBehaviour
     }
 
     public void GoToGamesPageGirl() => PlaySoundAndLoadScene("Games page");
-    public void GoToFristPageGirl() => PlaySoundAndLoadScene("Frist Girl");
-    public void GoToSecondPageGirl() => PlaySoundAndLoadScene("Second Girl");
+    public void GoToFristPageGirl() => PlaySoundAndLoadScene("frist Girl");
+    public void GoToSecondPageGirl() => PlaySoundAndLoadScene("second Girl");
     public void GoToThirdPageGirl() => PlaySoundAndLoadScene("Third Girl");
     public void GoToFourthPageGirl() => PlaySoundAndLoadScene("Fourth Girl");
     public void GoToFifthPageGirl() => PlaySoundAndLoadScene("Fifth Girl");
     public void GoToSixthPageGirl() => PlaySoundAndLoadScene("Sixth Girl");
     public void GoToSeventhPageGirl() => PlaySoundAndLoadScene("Seventh Girl");
     public void GoToChooseTheCharacterPageGirl() => PlaySoundAndLoadScene("Choose");
+
+    public void GoToChooseTheCharacterPagebackGirl() => PlaySoundAndLoadScene("um9 menu page");
 }
