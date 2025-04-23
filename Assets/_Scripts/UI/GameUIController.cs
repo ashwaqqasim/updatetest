@@ -479,6 +479,9 @@ static GameUIController()
         currentMovingPlayerText.faceColor = playerNumber == 1 ? firstPlayerColor : secondPlayerColor;
     }
 
+    public AudioSource winAudioSource;
+
+
     private void OnGameFinished(PlayerNumber winningPlayer)
     {
         UpdateWinningPlayerText(winningPlayer);
@@ -513,9 +516,18 @@ static GameUIController()
                 Debug.Log("😢 اللاعب خسر ضد المحنكة - الانتقال إلى مشهد Loser");
                 SceneManager.LoadScene("Loser");
             }
+
+            if (winAudioSource != null)
+            {
+                winAudioSource.Play();
+                StartCoroutine(LoadSceneAfterSound("Mabrook", winAudioSource.clip.length));
+            }
+            else
+            {
+                SceneManager.LoadScene("Mabrook");
+            }
         }
-        // اللعب المحلي
-        else
+        else if (winningPlayer == PlayerNumber.SecondPlayer && isAI)
         {
             if (winningPlayer == PlayerNumber.FirstPlayer)
             {
@@ -528,6 +540,12 @@ static GameUIController()
                 SceneManager.LoadScene("MabrookLocal1");
             }
         }
+    }
+
+    private IEnumerator LoadSceneAfterSound(string sceneName, float delay)
+    {
+        yield return new WaitForSeconds(delay);
+        SceneManager.LoadScene(sceneName);
     }
 
 

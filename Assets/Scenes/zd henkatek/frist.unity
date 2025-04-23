@@ -246,9 +246,9 @@ MonoBehaviour:
   m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1080, y: 1920}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
+  m_MatchWidthOrHeight: 0.5
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
@@ -336,11 +336,11 @@ RectTransform:
   - {fileID: 1214344028}
   m_Father: {fileID: 188887318}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -312.67908, y: 735.65607}
-  m_SizeDelta: {x: 134.5164, y: 173.03}
-  m_Pivot: {x: 0.37462264, y: 0.5}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 109.96866, y: -150.3139}
+  m_SizeDelta: {x: 160.9487, y: 173.03003}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &224920628
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -783,10 +783,10 @@ RectTransform:
   - {fileID: 561804718}
   m_Father: {fileID: 188887318}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -320.27954, y: -757.53796}
-  m_SizeDelta: {x: 204.265, y: 150.7692}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 109.21451, y: 130.97296}
+  m_SizeDelta: {x: 204.26, y: 150.7692}
   m_Pivot: {x: 0.39027962, y: 0.5}
 --- !u!114 &892769161
 MonoBehaviour:
@@ -1302,11 +1302,11 @@ RectTransform:
   - {fileID: 1417615611}
   m_Father: {fileID: 188887318}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 308.3039, y: 748.14105}
-  m_SizeDelta: {x: 133.8548, y: 148.06}
-  m_Pivot: {x: 0.4999996, y: 0.5}
+  m_AnchorMin: {x: 1, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -95.7861, y: -150.31366}
+  m_SizeDelta: {x: 192.56372, y: 148.06006}
+  m_Pivot: {x: 0.5000001, y: 0.49999997}
 --- !u!114 &1879008299
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1363,9 +1363,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1879008304}
-        m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
-        m_MethodName: Play
+      - m_Target: {fileID: 1879008302}
+        m_TargetAssemblyTypeName: Link, Assembly-CSharp
+        m_MethodName: GoToChooseTheCharacterPageback
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

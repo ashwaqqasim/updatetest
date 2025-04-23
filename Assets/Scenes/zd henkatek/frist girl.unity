@@ -223,10 +223,10 @@ RectTransform:
   - {fileID: 1086640156}
   m_Father: {fileID: 1885841983}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -438.03387, y: 1071.6418}
-  m_SizeDelta: {x: 338.03, y: 192.88}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 118.88428, y: -151.04199}
+  m_SizeDelta: {x: 241.9607, y: 192.88}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &771986327
 MonoBehaviour:
@@ -371,7 +371,7 @@ AudioSource:
   Priority: 128
   DopplerLevel: 1
   MinDistance: 1
-  MaxDistance: 64.40976
+  MaxDistance: 203.32066
   Pan2D: 0
   rolloffMode: 0
   BypassEffects: 0
@@ -745,10 +745,10 @@ RectTransform:
   - {fileID: 1834954135}
   m_Father: {fileID: 1885841983}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -434.92432, y: -1104.857}
-  m_SizeDelta: {x: 331.8109, y: 192.8794}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 118.88428, y: 141.89789}
+  m_SizeDelta: {x: 202.1937, y: 192.8794}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1756319581
 MonoBehaviour:
@@ -1208,12 +1208,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1080, y: 1920}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
+  m_MatchWidthOrHeight: 0.5
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
@@ -1301,11 +1301,11 @@ RectTransform:
   - {fileID: 1818305647}
   m_Father: {fileID: 1885841983}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 450.985, y: 1089.1421}
-  m_SizeDelta: {x: 268.03, y: 227.88}
-  m_Pivot: {x: 0.5, y: 0.49999997}
+  m_AnchorMin: {x: 1, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -117.75537, y: -151.04193}
+  m_SizeDelta: {x: 137.65039, y: 192.88}
+  m_Pivot: {x: 0.5000003, y: 0.49999997}
 --- !u!82 &2006201195
 AudioSource:
   m_ObjectHideFlags: 0
@@ -1463,7 +1463,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2006201196}
         m_TargetAssemblyTypeName: LinkGirl, Assembly-CSharp
-        m_MethodName: GoToChooseTheCharacterPageGirl
+        m_MethodName: GoToChooseTheCharacterPagebackGirl
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

@@ -156,11 +156,11 @@ RectTransform:
   - {fileID: 1378873074}
   m_Father: {fileID: 159242355}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 472.98975, y: 1091.1738}
-  m_SizeDelta: {x: 199, y: 207}
-  m_Pivot: {x: 0.6582399, y: 0.5}
+  m_AnchorMin: {x: 1, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -88.37166, y: -146.79675}
+  m_SizeDelta: {x: 221.87372, y: 207}
+  m_Pivot: {x: 0.59947, y: 0.63540286}
 --- !u!114 &58588161
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -535,12 +535,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1080, y: 1920}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
+  m_MatchWidthOrHeight: 0.5
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
@@ -630,11 +630,11 @@ RectTransform:
   - {fileID: 1782066391}
   m_Father: {fileID: 159242355}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -409.96088, y: -1111.131}
-  m_SizeDelta: {x: 272, y: 207}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 107.26932, y: 131.25806}
+  m_SizeDelta: {x: 328.47, y: 207}
+  m_Pivot: {x: 0.5, y: 0.6343342}
 --- !u!114 &541112941
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1083,11 +1083,11 @@ RectTransform:
   - {fileID: 973870983}
   m_Father: {fileID: 159242355}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -449.96088, y: 1091.1748}
-  m_SizeDelta: {x: 192, y: 207}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 113.43494, y: -148.34198}
+  m_SizeDelta: {x: 272, y: 207}
+  m_Pivot: {x: 0.41886133, y: 0.6279391}
 --- !u!114 &1214233788
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -176,6 +176,9 @@ public class ProfileManager : MonoBehaviour
         string fixedName = Regex.Replace(nameInputField.text.Trim(), "[^a-zA-Z0-9 _-]", "");
         string fixedID = idInputField.text.Trim();
 
+        PlayerPrefs.SetString("SelectedCharacter", selectedCharacter);
+        PlayerPrefs.Save();
+
         var dataToSave = new Dictionary<string, object>
     {
         { "PlayerName", fixedName },
@@ -200,6 +203,9 @@ public class ProfileManager : MonoBehaviour
             Debug.LogError($"❌ فشل الحفظ في الكلاود: {ex.Message}");
         }
     }
+
+
+
 
 
 }

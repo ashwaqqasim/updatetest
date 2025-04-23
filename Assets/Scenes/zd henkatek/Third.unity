@@ -319,11 +319,11 @@ RectTransform:
   - {fileID: 33444313}
   m_Father: {fileID: 1007841719}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 464.5, y: 1079.4099}
-  m_SizeDelta: {x: 241, y: 206}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_AnchorMin: {x: 1, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -100.262436, y: -141.15985}
+  m_SizeDelta: {x: 247.86212, y: 206}
+  m_Pivot: {x: 0.5934926, y: 0.61249036}
 --- !u!114 &157993602
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -782,12 +782,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1080, y: 1920}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
+  m_MatchWidthOrHeight: 0.5
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
@@ -951,9 +951,9 @@ RectTransform:
   - {fileID: 438724726}
   m_Father: {fileID: 1007841719}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -418.31662, y: -1116.3213}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 152.89294, y: 147.14252}
   m_SizeDelta: {x: 316, y: 206}
   m_Pivot: {x: 0.38041878, y: 0.5}
 --- !u!114 &1806385746
@@ -1210,11 +1210,11 @@ RectTransform:
   - {fileID: 471345901}
   m_Father: {fileID: 1007841719}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -453.21426, y: 1079.4099}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 113.36093, y: -164.33209}
   m_SizeDelta: {x: 259, y: 206}
-  m_Pivot: {x: 0.32940033, y: 0.5}
+  m_Pivot: {x: 0.31150624, y: 0.50000095}
 --- !u!114 &1998648202
 MonoBehaviour:
   m_ObjectHideFlags: 0

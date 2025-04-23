@@ -122,6 +122,8 @@ public class AccountManager : MonoBehaviour
             return;
         }
 
+ 
+
         SceneManager.LoadScene(sceneName);
     }
     public void RegisterAsRealPlayer()

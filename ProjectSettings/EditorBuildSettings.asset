@@ -92,5 +92,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LeaderBoard.unity
     guid: 6c34e8c6e2a252844a0bdfd3b6219001
+  - enabled: 1
+    path: Assets/Scenes/zd henkatek/frist.unity
+    guid: c4a1a8cfdba89c140951ac9efad89a2b
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
