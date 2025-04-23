@@ -495,25 +495,40 @@ static GameUIController()
 
         playButton.interactable = true;
 
-        if (winningPlayer == PlayerNumber.FirstPlayer && isAI)
+        // ضد الذكاء الاصطناعي
+        if (isAI)
         {
-            Debug.Log("🎉 اللاعب فاز - الانتقال إلى مشهد Mabrook");
-            // ✳️ أضف هذا السطر قبل الانتقال للمشهد:
-            if (ScoreManager.Instance != null)
+            if (winningPlayer == PlayerNumber.FirstPlayer)
             {
-                ScoreManager.Instance.ResetWinFlag();
+                Debug.Log("🎉 اللاعب فاز ضد المحنكة - الانتقال إلى مشهد Mabrook");
+                if (ScoreManager.Instance != null)
+                {
+                    ScoreManager.Instance.ResetWinFlag();
+                }
+
+                SceneManager.LoadScene("Mabrook");
             }
-
-            SceneManager.LoadScene("Mabrook");
+            else if (winningPlayer == PlayerNumber.SecondPlayer)
+            {
+                Debug.Log("😢 اللاعب خسر ضد المحنكة - الانتقال إلى مشهد Loser");
+                SceneManager.LoadScene("Loser");
+            }
         }
-
-        else if (winningPlayer == PlayerNumber.SecondPlayer && isAI)
+        // اللعب المحلي
+        else
         {
-            Debug.Log("😢 اللاعب خسر - الانتقال إلى مشهد Loser");
-            SceneManager.LoadScene("Loser");
+            if (winningPlayer == PlayerNumber.FirstPlayer)
+            {
+                Debug.Log("🎉 اليد اليسار فازت - الانتقال إلى MabrookLocal2");
+                SceneManager.LoadScene("MabrookLocal2");
+            }
+            else if (winningPlayer == PlayerNumber.SecondPlayer)
+            {
+                Debug.Log("🎉 اليد اليمين فازت - الانتقال إلى MabrookLocal1");
+                SceneManager.LoadScene("MabrookLocal1");
+            }
         }
     }
-
 
 
     private void SaveLogs()

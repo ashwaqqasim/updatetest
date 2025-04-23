@@ -36,6 +36,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Levels.unity
     guid: b580a31765a684f4d98109dced20676a
   - enabled: 1
+    path: Assets/Scenes/win.lose/MabrookLocal2.unity
+    guid: 373819955e020f742886562ce13692ac
+  - enabled: 1
+    path: Assets/Scenes/win.lose/MabrookLocal1.unity
+    guid: ad73837c48d4a5e42ae83780f59ffe03
+  - enabled: 1
     path: Assets/Scenes/win.lose/Mabrook.unity
     guid: 25a1dcbd0e6cbc14a8a0f82531df1db2
   - enabled: 1
